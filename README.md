@@ -1,3 +1,3 @@
-# django-rest_crud
+# django-rest_framework
+
 Django Model ViewSet REST API
-Django rest framework
